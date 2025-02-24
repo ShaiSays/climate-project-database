@@ -1,3 +1,0 @@
-git init
-git add .
-git commit -m "Initial commit with project artifacts and database design"
