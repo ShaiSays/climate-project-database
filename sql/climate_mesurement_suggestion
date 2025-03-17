@@ -1,0 +1,2 @@
+INSERT INTO ClimateMeasurement (station_id, measurement_date, avg_temperature, precipitation)
+VALUES (1, '2024-04-01', NULL, NULL);
