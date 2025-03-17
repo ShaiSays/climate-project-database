@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS ClimateMeasurement;
+DROP TABLE IF EXISTS Station;
+DROP TABLE IF EXISTS Region;
